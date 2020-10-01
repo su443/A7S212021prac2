@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PantallaInicial</string>
+    <string name="Descripcion">Android</string>
+    <string name="bienvenido">Bienvenido a Mi App</string>
+    <string name="mensaje">Aqui iria Todo el Contenido de la App</string>
+    <string name="menu">Menu de Opciones</string>
+    <string name="suma">Sumar Numeros</string>
+    <string name="tituloSumar">Sumar 2 Numeros</string>
+    <string name="etiquetanum1">Ingrese el Primer Valor</string>
+    <string name="etiquetanum2">Ingrese el Segundo Valor</string>
+    <string name="btncalcula">Calcular Resultado</string>
+    <string name="resta">Restar Numeros</string>
+    <string name="divide">Dividir Numeros</string>
+    <string name="multiplica">Multiplicar Numeros</string>
+    <string name="elevarcuadrado">Elevar al Cuadrado los Numeros</string>
+    <string name="titulorestar">Restar 2Numeros</string>
+    <string name="tituloDividir">Dividir 2 Numeros</string>
+    <string name="tituloMultiplicar">Multiplicar Numeros</string>
+    <string name="tituloCuadrado">Elevar al Cuadrado 2 Numeros</string>
+    <string name="etiquetanum3">Ingresa el Numero de Elevacion</string>
+    <string name="tituloElevar">Elevar un Numero</string>
+    <string name="elevar">Elevar 1 Numero</string>
+    <string name="cuadrado">Cuadrado de 1 Numero</string>
+    <string name="cubo">Cuadrado de Numeros</string>
+</resources>
